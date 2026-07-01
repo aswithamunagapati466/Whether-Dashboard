@@ -23,5 +23,11 @@ Displays accurate live weather metrics including:
 - Wind Speed
 - Weather Condition
 
+## Live Demo
+🔗 https://aswithamunagapati466.github.io/weather-dashboard/
+
+## GitHub Repository
+🔗 https://github.com/aswithamunagapati466/weather-dashboard
+
 ## API Used
 wttr.in Public Weather API
