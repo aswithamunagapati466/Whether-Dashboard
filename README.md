@@ -24,10 +24,10 @@ Displays accurate live weather metrics including:
 - Weather Condition
 
 ## Live Demo
-🔗 https://aswithamunagapati466.github.io/weather-dashboard/
+🔗 https://aswithamunagapati466.github.io/Whether-Dashboard/
 
 ## GitHub Repository
-🔗 https://github.com/aswithamunagapati466/weather-dashboard
+🔗 https://github.com/aswithamunagapati466/Whether-Dashboard
 
 ## API Used
 wttr.in Public Weather API
