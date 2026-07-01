@@ -25,6 +25,3 @@ Displays accurate live weather metrics including:
 
 ## API Used
 wttr.in Public Weather API
-
-## Author
-Your Name
