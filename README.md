@@ -24,7 +24,7 @@ Displays accurate live weather metrics including:
 - Weather Condition
 
 ## Live Demo
-🔗 https://aswithamunagapati466.github.io/Whether-Dashboard/
+🔗 https://aswithamunagapati466.github.io/Weather-Dashboard/
 
 ## GitHub Repository
 🔗 https://github.com/aswithamunagapati466/Whether-Dashboard
